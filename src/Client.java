@@ -5,7 +5,6 @@ public class Client {
     private int departureTime;
 
     public Client(int arrivalTime, int serviceStartTime, int departureTime) {
-        super();
         this.arrivalTime = arrivalTime;
         this.serviceStartTime = serviceStartTime;
         this.departureTime = departureTime;

@@ -4,7 +4,7 @@ public class SimulationEntry {
     private  int CAISSIERCOUNT = 3;
     private  int MINSERVICETIME = 2;
     private  int MAXSERVICETIME = 10;
-    private  int CLIENTARRIVALINTERVAL = 2;
+    private  int CLIENTARRIVALINTERVAL = 1;
 
     public int getSIMULATIONDURATION() {
         return SIMULATIONDURATION;
